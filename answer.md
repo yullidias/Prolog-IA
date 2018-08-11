@@ -1,11 +1,11 @@
 1. 
-	  a. A = b.
-	  b. false.
-	  c. A = 1+2.
-	  d. A = p(a, b).
-	  e. A = a, B = b.
-	  f. false.
-	  g. A = f(b).
+		a. A = b.
+		b. false.
+		c. A = 1+2.
+		d. A = p(a, b).
+		e. A = a, B = b.
+		f. false.
+		g. A = f(b).
 2. 
 		a. true.
 		b. false.

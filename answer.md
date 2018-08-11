@@ -76,8 +76,7 @@
 			 X = Y, Y = 2.
 		c. X = Y, Y = 1 ;
 			 X = 1, Y = 2. 
-		A proposição p(3) não é alcançada porque o backtracking é
-	interrompida na segunda proposição.  
+		A proposição p(3) não é alcançada porque o backtracking é interrompida na segunda proposição.  
 11. 
 		a. False.
 		b. X = rato, Y = queijo

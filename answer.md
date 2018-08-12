@@ -49,7 +49,7 @@
 					W=a, V=d		s(d, a)			True.					True.
 					r(a, d)	
 			
-			 X=a, Y=d, Z=a. Retrocede 4 vezes
+			X=a, Y=d, Z=a. Retrocede 4 vezes
 6. 
 		a. Uma vez
 		b. Quatro vezes
@@ -96,5 +96,3 @@
 		tia(X):- irma(W, X), W is progenitor(Z,X).
 		avo(X):- progenitor(Z,progenitor(Y,X)).
 		prima(X):-prole(tia(X)).
-
-  					
